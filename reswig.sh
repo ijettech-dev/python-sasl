@@ -1,3 +1,3 @@
 #!/bin/bash
 
-swig -c++ -python saslfork/saslwrapper.i
+swig -c++ -python saslwrapper/saslwrapper.i
