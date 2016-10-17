@@ -13,7 +13,7 @@ sasl_module = Extension('_saslwrapper',
                            language="c++",
                            )
 dist = setup (name = 'saslfork',
-       version = '0.0.1',
+       version = '0.1.3',
        url = "https://github.com/ijettech-dev/python-sasl/tree/master",
        maintainer = "iJet Technologies",
        maintainer_email = "qa@ijettechnologies.com",
